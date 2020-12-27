@@ -1,0 +1,12 @@
+/Users/mac/Projects/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.deps.json
+/Users/mac/Projects/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.runtimeconfig.json
+/Users/mac/Projects/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.runtimeconfig.dev.json
+/Users/mac/Projects/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.dll
+/Users/mac/Projects/consoleapp/bin/Debug/netcoreapp3.1/consoleapp.pdb
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.csprojAssemblyReference.cache
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.AssemblyInfoInputs.cache
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.AssemblyInfo.cs
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.dll
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.pdb
+/Users/mac/Projects/consoleapp/obj/Debug/netcoreapp3.1/consoleapp.genruntimeconfig.cache
